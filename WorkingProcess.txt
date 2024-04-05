@@ -1,0 +1,64 @@
+gs.addInfoMessage('Starting to calculate labels');
+gs.eventQueue('x_akt_guardicore.count_label', current, current.sys_id.toString());
+action.setRedirectURL(current);
+
+https://chromewebstore.google.com/detail/time-tracker/dkdhhcbjijekmneelocdllcldcpmekmm
+
+
+//Sepio save
+function saveAndStay(){
+		g_form.submit();
+}
+
+quetions
+https://ven04516.service-now.com/scripts/classes/doctype/GlideModal.js
+ for InCountry:
+ 1.were we get data (object) for configuration around propertys// declaret controler as object 
+ 2 were request the data from controller
+ 3 as i undestend we request data on othe logic
+ 4 i wont undestend were i get all method were i can research this
+ 5 what meen "scratchpad"
+ 6 how application start to execute
+ 7Why we use window in one of the context
+ 8 i can use documentation wich using in the script?
+ 
+ "more active and never to scare issue its okay "
+ 
+ 
+ 
+ 
+ 
+
+
+My sourse that i find 
+UI Bilder?
+
+1.figuraute how it work withou initialithation:
+} else if (this.ui_type == this.UI_TYPE.SP)
+
+2.in one of the function can be the conflict betvine AngularJS & jQuery
+
+
+research (dom)
+
+($.getScript) from jQuery using for load external files with asynk 
+
+
+wen you accidently delete record you can use: Navigate to All > System Definition > Deleted Records. Open the deleted record that you want to restore.
+
+UI Actions: UI Actions are buttons, links, or context menu selections on forms and lists. They can be used to perform various actions like navigating to a different page, updating a field on a record, etc1.
+Client Scripts: Client Scripts are used to manipulate form fields, hide/show elements, or even fetch data from the server using GlideAjax1.
+Business Rules: Business Rules are server-side scripts that execute whenever a record is queried, displayed, updated, inserted, or deleted1.
+Workspace Experiences: In the Now Platform UI Framework, you can create workspace experiences that include components such as lists, forms, and other UI components. You can add logic to these components using JavaScript and AngularJS.
+
+If you want to reuse some JavaScript code across these different scripts, you can define it in a UI Script and then call that UI Script from your UI Actions, Client Scripts, Business Rules, or workspace experiences.
+
+
++0,5 + 0,6 testing application
+
+This script include usind in script (Ui script) on form
+https://ven04516.service-now.com/sys_script_include.do?sys_id=b7a4cc57dbbba0104755144e13961963
+https://ven04516.service-now.com/sys_script_include.do?sys_id=57f2ebbbdbe7901069f95e25ca96191c
+https://ven04516.service-now.com/sys_script_include.do?sys_id=d324fed80a0a0b54005b8345327ef603
+https://ven04516.service-now.com/sys_script_include.do?sys_id=a67d4f5adb7f981069f95e25ca961918
+
