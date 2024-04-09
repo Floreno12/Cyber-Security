@@ -19,6 +19,7 @@ https://ven04516.service-now.com/scripts/classes/doctype/GlideModal.js
  4 i wont undestend were i get all method were i can research this
  5 what meen "scratchpad"
  6 how application start to execute
+ //were data was going InCountry
  
  
 
@@ -97,3 +98,5 @@ in this context when we open form, in this context i request logic from one plac
   xhrsend: its like rail for our packedge the working with other side (klient)
 
 My// DOM event and how create processors event
+
+123
