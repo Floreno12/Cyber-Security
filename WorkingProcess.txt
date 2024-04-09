@@ -19,8 +19,21 @@ https://ven04516.service-now.com/scripts/classes/doctype/GlideModal.js
  4 i wont undestend were i get all method were i can research this
  5 what meen "scratchpad"
  6 how application start to execute
+ 
+ 
+
  7Why we use window in one of the context
  8 i can use documentation wich using in the script?
+quetions about this script incluse 	607		var ga = new GlideAjax('icRemoteDataAjax');
+ 
+ 
+ how we get this 2 link: 
+
+ this._fields = _fields;
+ this.form = form; // link to form
+ 
+ 
+ 
  
  "more active and never to scare issue its okay "
  
@@ -56,9 +69,31 @@ If you want to reuse some JavaScript code across these different scripts, you ca
 
 +0,5 + 0,6 testing application
 
+
+
+Need to find were located: this.handling = scratchpad.icrd.handling_type; (bisness rule)
+
 This script include usind in script (Ui script) on form
 https://ven04516.service-now.com/sys_script_include.do?sys_id=b7a4cc57dbbba0104755144e13961963
 https://ven04516.service-now.com/sys_script_include.do?sys_id=57f2ebbbdbe7901069f95e25ca96191c
 https://ven04516.service-now.com/sys_script_include.do?sys_id=d324fed80a0a0b54005b8345327ef603
 https://ven04516.service-now.com/sys_script_include.do?sys_id=a67d4f5adb7f981069f95e25ca961918
 
+
+
+On every call i need to create my own presentation about a something
+
+Importance nodes by code InCountry
+1.Scratchpad: in context service now its bissnes rule wich allow to get server side parameter it can be some (field) and after integrate this in the your script 
+in this context when we open form, in this context i request logic from one place in other
+
+
+2.addTopRenderEvent: its event was created platform service now, with this event we know wen all was load after we can indegrate the our logic
+
+3. parent.good = function() its was add in good logic from this function 
+
+4 xhrsave: instal data from othe side (klient)
+  xhrloud: save data in othe side (klient)
+  xhrsend: its like rail for our packedge the working with other side (klient)
+
+My// DOM event and how create processors event
