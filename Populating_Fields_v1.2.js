@@ -1,7 +1,8 @@
 var table = "cmdb_ci_service"; // remember, that parent table contains all child records
-var recordPrefix = "Scale Test Service 10000p"; // for selecting records in table
+var recordPrefix = "Scale Test Service 10000p"; // for selecting records in table for popukete all in records
 
 //query
+//query by table for  cmdb_ci_service
 var queryString = "nameSTARTSWITH" + recordPrefix;
 var gr = new GlideRecord(table);
 gr.addEncodedQuery(queryString);
@@ -9,6 +10,7 @@ gr.query();
 
 
 // Available types:
+//population typy which you will be yo use 
 var FieldType = {
 	String: "String",
 	Integer: "Integer",
@@ -17,7 +19,7 @@ var FieldType = {
 };
 
 // set filed sys_name and field type 
-var field = "u_custom_integer_field";  // your (custom) field for populating
+var field = "u_custom_integer_field";  // your (custom) field for populating 
 var fieldType = FieldType.Integer; // must be one of the values from the "FieldType" objcet. CAN BE POPULATED AUTOMATICALLY (in future)
 
 // set preferences for populating
