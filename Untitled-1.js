@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+//create script for create congif dependency from mode 
+//1 gen config
+//2 whith cirrent data
+//3 replace the crentiol 
+//4 with current filter
+ 
+=======
 
 
 const express = require('express');
@@ -92,3 +100,4 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
+>>>>>>> e21e17fa2f2e4479cf5970bf61999017d5fcde47
