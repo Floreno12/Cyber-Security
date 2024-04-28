@@ -18,3 +18,6 @@ if (parentRecordId) {
     ConfigCH.parent = parentRecordId; // Set the reference field to the sys_id of the parent record
     var childRecordId = ConfigCH.insert();
 }
+
+
+//here
