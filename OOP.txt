@@ -318,7 +318,7 @@ On my PDI
 Qusions
 
 1.whot its OOP And why its: its usful when for more redebal code and optimithation one of maine function ()
-2Whot its class: its type data which wotk discride the object 
+2Whot its class: its type data which work discride the object 
 3And object class: object discrybe class can discrype particular methaod
 4 Constructor and destruktor: constructor worhind for create object on function/ destructor clear all
 5Incapsulation,  Polimarfism, Inheritance: in object will be the save all methods,
@@ -332,6 +332,38 @@ Inheritance: this type can helpe the get property from super class they can gey 
 8 Patern one of exemple:
 
 
+OOP
+29.04.24
+
+Virtual methaod: its method in class which can be repick in down class. have some difference bitvin abstract and virtual method in OOP
+1. Virtual method 1.1 its mehod in class which can be repick in class
+1.2 use in contexti languge which use polimorfithm and allow redeclared methos in down class
+1.3 the declared in base class but can be redeclared in down class in need 
+
+exmple:
+class Glads {
+
+    chanhe: function{
+
+    }
+}
+
+class fail Extend Glads{
+
+    change: function{//can execute differen code execute
+
+    }
+
+}
+
+
+2 Abstract method:
+
+2.1 its methos in class which cant have realithation in base class an dneed be redeclared in down class
+2.2 Use for create interfase for down class 
+2.3 Use in languge which allow abstractiob class (java, pythos, C#, C++)
+
+exemple:
 
 
 
