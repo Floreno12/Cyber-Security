@@ -1,0 +1,4 @@
+https://www.servicenow.com/
+https://en.wikipedia.org/wiki/ServiceNow
+https://www.servicenow.com/what-is-servicenow.html
+https://snowunderground.com/blog/2022/1/9/prototypejs-servicenow-and-objects
