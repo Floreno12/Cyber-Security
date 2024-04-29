@@ -4,4 +4,15 @@ link SIEM: https://medirent.ua/medias/21-articles/16-monitorynh-informatsiinoi-b
 link SIEM: https://www.ibm.com/topics/siem
 link SIEM: https://www.cisco.com/c/en/us/products/security/what-is-siem.html
 link SIEM: https://www.redhat.com/en/topics/security/what-is-SIEM
+<<<<<<< HEAD
 link SIEM: https://www.infosecinstitute.com/resources/management-compliance-auditing/what-is-siem/git add gitCreate.txt OIBCours.txt
+=======
+link SIEM: https://www.infosecinstitute.com/resources/management-compliance-auditing/what-is-siem/
+link Event: https://www.microsoft.com/uk-ua/security/business/security-101/what-is-incident-response
+link Event: https://cso.cyberhandbook.org/uk/topics/when-things-go-wrong/reahuvannya-na-intsydenty
+link Event: https://group-fs.com/en/services/reagirovanie-na-inczidenty/
+link Event: 
+link Event: 
+link Event: 
+link Event: 
+>>>>>>> origin/main
