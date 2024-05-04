@@ -11,6 +11,11 @@ git remote add origin https://github.com/Floreno12/Cyber-Security.git
 
 ]
 
+[
+    check with whor repository you are work:
+    git remote -v
+
+]
 
 
 
