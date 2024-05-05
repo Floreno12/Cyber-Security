@@ -3,14 +3,14 @@ var totalsalaries = {};
 var Maney = 0;
 
 team.forEach(member => {
-    //get value
+
     var getSpecialithations = member.specialization;
     console.log('goog experiance ', getSpecialithations);
     var Salaries = salaries[getSpecialithations].salary;
     var tax = parseFloat(salaries[getSpecialithations].tax) / 100;
     console.log('Present here ', tax);
 
-    //Calculet the summery selery for all
+
     var Calculet = Math.round(Salaries / (1 - tax));
     console.log('get more information here ', Calculet);
 
