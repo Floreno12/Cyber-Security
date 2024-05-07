@@ -1,0 +1,5 @@
+&create presentation for courswork OOP and OIB
+&create new method PUT for courswork
+$Optimithation REST deliter for Centra
+$Create some logic for prediction mehanithm
+$impruve script for populeting config
