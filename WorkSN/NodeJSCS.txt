@@ -1,0 +1,27 @@
+Here i will be explaine how to stir secure your application
+
+1.express-rate-limit//use avoid Ddos attack
+2 node.bcrypt.js//using Encript data in data base
+3 JWT token for autoryth
+4 JSONSchema validation
+5 escape html
+6 Mongoose
+7 eslint-plugin-security
+8 root user
+9 limit data sithe: node-rate-limiter-flexible / and for autorythe
+10 helmet
+11 audit
+
+
+
+
+1 experess-rate-limit: Используэться для избежания Ddos атак по принципу димита запросав с одного IP на наш сервер
+Documentation:https://www.npmjs.com/package/express-rate-limit
+
+2  node.bcrypt.js: Используэться для хештривания даних в базе дпних для того чтобы наши дание попадут в руки других людей они оставались в не читабельном выде
+Documentation: https://www.npmjs.com/package/bcrypt
+
+3 jsonwebtoken: this library allou autorythe in the system use token
+
+4jsonschema: use for validation shema
+Documentation: https://www.npmjs.com/package/jsonschema
